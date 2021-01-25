@@ -1,0 +1,22 @@
+body{
+	background-color:#FFE4B5;
+}
+.hty{
+	font-size: 37px;
+}
+img{
+	width: 50%
+}
+p{
+	font-size:20px;
+}
+a{
+	font-size:25px;
+	color:#9400D3;
+}
+li{
+	list-style-type: none;
+}
+li:before{
+		content:"-                     "
+}
